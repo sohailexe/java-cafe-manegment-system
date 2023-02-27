@@ -1,0 +1,5 @@
+Cofee,Hot Cofee(20)_Cold Cofee(25).
+Tea,GREEN TEA(22)_BLACK Tea(24)_LEMON Tea(25)_GINGER Tea(25).
+Burgers,Zinger Burger(100)_Cheese Burger(110)_Beef Burger(90)_Mexian Burger(200).
+Pizzas,Chicken Tika(999)_Hot & Spice(800)_Chicken Fajita(900)_Fruit Pizza(800).
+Cold Drinks,Coca Cola(50)_Sting(111)_papsi(66).
